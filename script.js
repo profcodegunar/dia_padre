@@ -14,6 +14,10 @@ const fathers = [
   { image: 'img/12.jpeg', title: 'Papá admirable', text: 'Tu esfuerzo silencioso vale más que mil palabras. Gracias, papá.' },
   { image: 'img/13.jpeg', title: 'Amor infinito', text: 'No necesito un superhéroe, porque tengo a papá en casa.' },
   { image: 'img/14.jpeg', title: 'Mi alegría', text: 'Tu sonrisa hace que cada día sea más bonito y especial.' },
+  { image: 'img/15.jpeg', title: 'Un padre inolvidable', text: 'Tu amor, tu esfuerzo y tu dedicación son el mejor regalo que recibimos cada día. Gracias por estar siempre a nuestro lado.' },
+  { image: 'img/16.jpeg', title: 'Huella de amor', text: 'Las enseñanzas de un buen padre permanecen para siempre en el corazón de sus hijos. Gracias por guiarnos con sabiduría.' },
+  { image: 'img/17.jpeg', title: 'Fortaleza y ejemplo', text: 'Con tu trabajo, sacrificio y amor nos enseñas que los sueños se alcanzan con esfuerzo y perseverancia.' },
+  { image: 'img/18.jpeg', title: 'Feliz Día del Padre', text: 'Hoy rendimos homenaje a todos los padres que con amor, fe y dedicación construyen un mejor futuro para sus familias.' },
   { image: 'img/logo.png', title: 'Colegio Emanuel', text: 'Feliz Día del Padre a todos los papitos que forman parte de nuestra familia Emanuel.' }
 ];
 
